@@ -1,0 +1,22 @@
+1>------ Kompilacja rozpoczêta: Projekt: Test_OpenCV, Konfiguracja: Release x64 ------
+1>Source.cpp
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(158): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(159): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(162): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(163): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(164): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(165): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(166): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(174): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(175): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(176): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest wiêkszej wielkoœci
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(320): warning C4244: "inicjowanie": konwersja z "LRESULT" do "int", mo¿liwa utrata danych
+1>c:\users\fonek\source\repos\test_opencv\test_opencv\source.cpp(707): warning C4244: "inicjowanie": konwersja z "LRESULT" do "int", mo¿liwa utrata danych
+1>Trwa generowanie kodu
+1>2 of 419 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+1>  0 functions were new in current compilation
+1>  0 functions had inline decision re-evaluated but remain unchanged
+1>Zakoñczono generowanie kodu
+1>Test_OpenCV.vcxproj -> C:\Users\Fonek\source\repos\Test_OpenCV\x64\Release\Test_OpenCV.exe
+1>Kompilowanie projektu „Test_OpenCV.vcxproj” wykonane.
+========== Kompilacja: 1 zakoñczono powodzeniem, 0 zakoñczono niepowodzeniem, 0 zaktualizowano, 0 pominiêto ==========
