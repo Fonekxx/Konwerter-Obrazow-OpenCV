@@ -1,4 +1,6 @@
 # Konwerter-Obrazow-OpenCV
+Projekt wykonany jako zaliczenie studiów inżynierskich
+
 Opis w języku polskim
 
 Projekt wykonany jako zaliczenie studiów inżynierskich wykorzystujący technologię programowania strukturalnego, interfejs graficzny WinAPI, elementy języka C/C++ oraz bibliotekę OpenCV, która zawiera implementację algorytmów przetwarzania grafiki.
